@@ -9,9 +9,6 @@ create a standby database, but to demonstrate the complete disaster-recovery lif
 build, replicate, validate, perform controlled role transitions, fail over, recover,
 reinstate, switch back, and validate again.
 
-> **A standby database that has never been tested does not prove
-> disaster-recovery readiness.**
-
 ## Project Goal
 
 Demonstrate that an Oracle Database 19c environment can:
